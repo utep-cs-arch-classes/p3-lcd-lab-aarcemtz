@@ -1,3 +1,4 @@
+
 /** \file lcdutils.c: 
  * 
  *  \brief Created on: 10/19/2016
@@ -158,4 +159,3 @@ void lcd_init()
     lcd_writeData(0xC8);
   }
 }
-
